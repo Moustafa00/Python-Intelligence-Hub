@@ -7,14 +7,6 @@ This hub reflects my ongoing learning progression in the world of data and intel
 
 ## 📌 Highlights
 
-### 🔍 License Plate Detection GUI  
-**Image Processing + OCR + GUI Integration**  
-[📄 Project Doc](https://docs.google.com/document/d/1KZ5jY8CSs_aeObBDgoc0yWZktfHnhZm5pFYWuEko40U/edit?usp=sharing)  
-Automated license plate recognition using OpenCV and PyTesseract — wrapped in a PySimpleGUI interface for user-friendly interaction. Focuses on pure image processing: grayscale conversion, Gaussian blur, Canny edge detection, contour analysis, and OCR for text extraction.
-
-🔧 Tech: `OpenCV`, `PyTesseract`, `PySimpleGUI`, `Image Processing`, `OCR`
-
----
 
 ### 👥 Customer Segmentation  
 **Clustering + Dimensionality Reduction + Evaluation**  
@@ -40,6 +32,15 @@ Compare and visualize classification models to predict iris flower species. Impl
 Build a clean ETL pipeline using Pandas inside a Docker container. Reads a CSV, applies data cleaning (nulls, column renaming), and outputs a processed file. Containerized for portability and dev/test repeatability.
 
 🔧 Tech: `Python`, `Pandas`, `Docker`, `docker-compose`, `ETL`
+
+---
+
+### 🔍 License Plate Detection GUI  
+**Image Processing + OCR + GUI Integration**  
+[📄 Project Doc](https://docs.google.com/document/d/1KZ5jY8CSs_aeObBDgoc0yWZktfHnhZm5pFYWuEko40U/edit?usp=sharing)  
+Automated license plate recognition using OpenCV and PyTesseract — wrapped in a PySimpleGUI interface for user-friendly interaction. Focuses on pure image processing: grayscale conversion, Gaussian blur, Canny edge detection, contour analysis, and OCR for text extraction.
+
+🔧 Tech: `OpenCV`, `PyTesseract`, `PySimpleGUI`, `Image Processing`, `OCR`
 
 ---
 
